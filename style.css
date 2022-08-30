@@ -1,0 +1,17 @@
+h1{
+    background-color: red;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    font-size: 40px;
+    width:300px;
+    display: flex;
+}
+
+h2{
+     background-color: deeppink;
+     text-align:center;
+     padding: 30px;
+     margin: 20px;
+     font-size:30px;
+}
